@@ -36,7 +36,6 @@ class UserAuthenticator {
     }
 
     string hashPassword(const string& password) {
-        // Note: In production, use proper cryptographic hashing (bcrypt, Argon2, etc.)
         return to_string(hash<string>{}(password + salt));
     }
 
