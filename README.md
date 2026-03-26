@@ -11,7 +11,6 @@ Key Features
 Tech Stack
 🛠️ C++ | Git | OOP Principles
 
-Why This Name & Description?
 Secure-Auth-System – Clearly indicates it’s an authentication system with security focus.
 
 Emojis (🔐💻✅) – Improve readability and visual appeal.
