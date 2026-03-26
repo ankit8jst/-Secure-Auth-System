@@ -11,10 +11,4 @@ Key Features
 Tech Stack
 🛠️ C++ | Git | OOP Principles
 
-Secure-Auth-System – Clearly indicates it’s an authentication system with security focus.
 
-Emojis (🔐💻✅) – Improve readability and visual appeal.
-
-Bullet Points – Highlight key features for quick scanning.
-
-Tech Stack Mention – Helps developers understand the tools used.
